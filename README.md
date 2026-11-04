@@ -2,7 +2,7 @@
 
 Official PyTorch implementation of **I2V-DETACH: Source Grounding Detachment for Unauthorized Image-to-Video Generation**, accepted to **NeurIPS 2026**.
 
-[[Paper]](https://arxiv.org/abs/2610.23287)
+[[Paper]](https://arxiv.org/abs/2610.23287) [[Project Page]](https://chanhuilee1111.github.io/I2V-DETACH/)
 
 I2V-DETACH protects source images from unauthorized image-to-video generation by suppressing source-video grounding and strengthening intra-video interactions, reducing the propagation of source-image content into generated videos.
 
